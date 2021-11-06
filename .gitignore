@@ -1,6 +1,5 @@
 *.class
 *.log
-*.idea
 *.ctxt
 *.iml
 *.war
@@ -9,3 +8,4 @@
 *.rar
 /bin/
 /target/
+/.idea
