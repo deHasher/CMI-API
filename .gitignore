@@ -1,11 +1,4 @@
-*.class
-*.log
-*.ctxt
 *.iml
-*.war
-*.ear
-*.zip
-*.rar
-/bin/
-/target/
+
 /.idea
+/target/
